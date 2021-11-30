@@ -142,7 +142,7 @@ During the impression test of the third high-fidelity design, the user wanted to
 <img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="500" />
 
 
->**:ten:Changing the text lines' height ot increase the readability:**
+>**:keycap_ten:Changing the text lines' height ot increase the readability:**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="500" />
 
