@@ -20,7 +20,7 @@ In this stage, this project intends to make navigation, finding, and tracking th
 In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland Security]( https://www.dhs.gov/) ) and CBP ( [U.S. Custom and Border Protection](https://www.cbp.gov/) ) were tested to grasp a general idea about the structure of federal websites and scrutinize them for the later stages of this project. During the evaluation, issues like the contrast in Visibility of System Status and alignment in Aesthetic and Minimalist Design were noticed. However, the main issue (see Introduction) on which this project is focused was observed later. For more information about the heuristic evaluations, please click [**here**]( https://github.com/ziiiaz/DH110---Week-1/blob/main/Week1.md#first-department-of-homeland-security).
 
 >**Two examples from the heurisic evaluations**
->
+
 <img src="https://user-images.githubusercontent.com/46515738/143791017-8989220f-8f90-44b9-bff8-eba3faabdaac.png" width="500" />
 
 <img src="https://user-images.githubusercontent.com/46515738/143791094-3164f722-837d-452d-97fb-af3686efae4e.png" width="500" />
