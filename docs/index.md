@@ -34,8 +34,12 @@ In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland 
 
 >**Two examples from the heurisic evaluations**
 
+>*ONE*:
+>
 <img src="https://user-images.githubusercontent.com/46515738/143791017-8989220f-8f90-44b9-bff8-eba3faabdaac.png" width="400" />
 
+>*TWO*:
+>
 <img src="https://user-images.githubusercontent.com/46515738/143791094-3164f722-837d-452d-97fb-af3686efae4e.png" width="400" />
 
 
