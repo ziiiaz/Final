@@ -23,9 +23,11 @@ In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland 
 >**Two Websites:**
 
 >:one:
+
 <img src="https://user-images.githubusercontent.com/46515738/143982009-541f7f5b-a733-4606-8303-6c9498a26a89.png" width="300" height="400" />
 
 >:two:
+
 <img src="https://user-images.githubusercontent.com/46515738/143982172-90d18364-7f74-4fc0-8fcf-2e007050938c.png" width="300" height="400" />
 
 
@@ -50,9 +52,11 @@ Storytelling emplaces the subject matter in a context and takes the audience on 
 >**Personas**:
 
 >:one:
+
 <img src="https://user-images.githubusercontent.com/46515738/142480461-d64eb4ef-8599-4b54-b54d-5543989ae61f.png" width="600" />
 
 >:two:
+
 <img src="https://user-images.githubusercontent.com/46515738/142480700-c330a511-659a-4cb6-9774-6935755a1f79.jpg" width="600" />
 
 
@@ -97,20 +101,24 @@ During the impression test of the third high-fidelity design, the user wanted to
 
 >**:one:Choosing between search bars:**
 
+
 <img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="400" />
 
 
 >**:two:Aliging the text with the shape (1):**
 
+
 <img src="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="400" />
 
 
->**:three:Aligning the text with the shape (2):**
+>**:three:Aligning the text with the shape (2):*
+
 
 <img src="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="400" />
 
 
 >**:four:Aligning the search bar with the shapes and the page margin:**
+
 
 <img src="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="400" />
 
@@ -119,30 +127,36 @@ During the impression test of the third high-fidelity design, the user wanted to
 
 >**:five:Aligning the logo with the other elementsin the page:**
 
+
 <img src="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="400" />
 
 
 >**:six:Aligning the dropdown tab with the page:**
+
 
 <img src="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="400" />
 
 
 >**:seven:Aligning the text with other elements and the page:**
 
+
 <img src="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="400" />
 
 
 >**:eight:Changing the duration of animnation to give simulate the loading feeling to the user:**
+
 
 <img src="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="400" />
 
 
 >**:nine:Aligning the text with other elements and the page:**
 
+
 <img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="400" />
 
 
 >**:keycap_ten:Changing the text lines' height ot increase the readability:**
+
 
 <img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="400" />
 
