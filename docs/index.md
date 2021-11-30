@@ -76,45 +76,45 @@ During the impression test of the third high-fidelity design, the user wanted to
 **Several typographic, alignment, contrast, shape changes were applied to the final revision. These changes helped the design to have a professional look and aesthetically appealing to the user. Some of these changes can be seen here**: 
 
 
-1. choosing between search bars:
+1.Choosing between search bars:
 <img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="500" />
 
 
-2. Aliging the text with the shape 1:
+2.Aliging the text with the shape 1:
 <img src="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="500" />
 
 
-3. Align the text with the shape 2:
+3.Aligning the text with the shape 2:
 <img src="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="500" />
 
 
-4. Aliginig the search bar with the shapes and the page margin:
+4.Aligning the search bar with the shapes and the page margin:
 <img src="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="500" />
 
 <img src="https://user-images.githubusercontent.com/46515738/142483952-de8d8225-263c-443c-b75f-6970b3fba885.jpg" width="500" />
 
 
-5. Aligning the logo with the other elementsin the page:
+5.Aligning the logo with the other elementsin the page:
 <img src="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="500" />
 
 
-6. Aligning the dropdown tab with the page:
+6.Aligning the dropdown tab with the page:
 <img src="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="500" />
 
 
-7. Aligning the text with other elements and the page:
+7.Aligning the text with other elements and the page:
 <img src="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="500" />
 
 
-8. Changing the duration of animnation to give simulate the loading feeling to the user:
+8.Changing the duration of animnation to give simulate the loading feeling to the user:
 <img src="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="500" />
 
 
-9. Aligning the text with other elements and the page:
+9.Aligning the text with other elements and the page:
 <img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="500" />
 
 
-10. Changing the text lines' height ot increase the readability:
+10.Changing the text lines' height ot increase the readability:
 <img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="500" />
 
 
