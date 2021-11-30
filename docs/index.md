@@ -4,7 +4,7 @@
 
 
 ### INTRODUCTION
-The core intention of this project is to bring users' experience with the Department of Homeland Security website in finding the relevant formation about the travel [**complaint**]( https://www.dhs.gov/file-travel-complaint-dhs-trip) and specifically be able to easily track their complaint [**status**](https://trip.dhs.gov/TRIP/Home/CaseStatus). While the original website tried to keep the structure minimalistic and straightforward, it was not straightforward for some users with less technical knowledge to access the desired information. By deploying the users' experience with the website, this project provides alternative designs to facilitate users' efficient engagement with various elements of complaining and tracking pages. Thus, in this project, the design focuses on the issues addressed during the different stages of the project through (re-)modifying elements like changing shapes, fonts, alignments, and even re-designing a whole page. These stages will be discussed in the following sections. 
+The core intention of this project is to bring users' experience with the Department of Homeland Security website in finding the relevant formation about the travel [**complaint**]( https://www.dhs.gov/file-travel-complaint-dhs-trip) and specifically be able to easily track their complaint [**status**](https://trip.dhs.gov/TRIP/Home/CaseStatus). While the original website tried to keep the structure minimalistic and straightforward, it was not straightforward for some users with less technical knowledge to access the desired information. By deploying the users' experience with the website, this project provides alternative designs to facilitate users' efficient engagement with various elements of complaining and tracking pages. Thus, in this project, the design focuses on the issues which were addressed during the different stages of the project through re-modifying elements like changing shapes, fonts, alignments, and even re-designing a whole page. These stages will be discussed in the following sections. 
 
 <img src="https://user-images.githubusercontent.com/46515738/143969954-c2f6da63-efc8-40f0-88ea-9a830e8e7997.png" width="400" height="700" />
 
@@ -12,7 +12,7 @@ The core intention of this project is to bring users' experience with the Depart
 
 
 ### CLEAR DESIGN STATEMENT: 
-In this stage, this project intends to make navigation, finding, and tracking the complaint's status more accessible for users who might find the original design confusing. According to the feedback analyzed in this project, since the DHS is a vast section of the government, users might feel filing complaints and tracking it futile. This affective perspective would influence users’ engagement with the website, which is already confusing in its tracking section. 
+In this stage, this project intends to make navigation, finding, and tracking the complaint's status more accessible for users who might find the original design confusing. According to the feedbacks analyzed in this project, since the DHS is a vast section of the government, users might feel filing ش complaint and tracking it futile. This affective perspective would influence users’ engagement with the website, which is already confusing in the tracking section. 
 
 
 
