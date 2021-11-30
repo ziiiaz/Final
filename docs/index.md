@@ -77,14 +77,17 @@ During the impression test of the third high-fidelity design, the user wanted to
 
 
 1.Choosing between search bars:
+
 <img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="500" />
 
 
-2.Aliging the text with the shape 1:
+2.Aliging the text with the shape (1):
+
 <img src="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="500" />
 
 
-3.Aligning the text with the shape 2:
+3.Aligning the text with the shape (2):
+
 <img src="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="500" />
 
 
