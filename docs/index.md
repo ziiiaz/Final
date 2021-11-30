@@ -12,7 +12,7 @@ The core intention of this project is to bring users' experience with the Depart
 
 
 ### CLEAR DESIGN STATEMENT: 
-In this stage, this project intends to make navigation, finding, and tracking the complaint's status more accessible for users who might find the original design confusing. According to the feedbacks analyzed in this project, since the DHS is a vast section of the government, users might feel filing ش complaint and tracking it futile. This affective perspective would influence users’ engagement with the website, which is already confusing in the tracking section. 
+In this stage, this project intends to make navigation, finding, and tracking the complaint's status more accessible for users who might find the original design confusing. According to the feedbacks analyzed in this project, since the DHS is a vast section of the government, users might feel filing complaint and tracking it futile. This affective perspective would influence users’ engagement with the website, which is already confusing in the tracking section. 
 
 
 
