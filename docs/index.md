@@ -177,6 +177,7 @@ During the impression test of the third high-fidelity design, the user wanted to
 ### PITCH VIDEO: 
 Please click [**here**](https://drive.google.com/file/d/16y2k9flWz8dVmQITAhhvwUemcelvEjUU/view?usp=sharing).
 
+<iframe src="https://drive.google.com/file/d/16y2k9flWz8dVmQITAhhvwUemcelvEjUU/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 ### CONCLUSIONS:
