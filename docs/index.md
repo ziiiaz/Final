@@ -19,6 +19,14 @@ In this stage, this project intends to make navigation, finding, and tracking th
 ### COMPETITOR ANALYSIS
 In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland Security]( https://www.dhs.gov/) ) and CBP ( [U.S. Custom and Border Protection](https://www.cbp.gov/) ) were tested to grasp a general idea about the structure of federal websites and scrutinize them for the later stages of this project. During the evaluation, issues like the contrast in Visibility of System Status and alignment in Aesthetic and Minimalist Design were noticed. However, the main issue (see Introduction) on which this project is focused was observed later. For more information about the heuristic evaluations, please click [**here**]( https://github.com/ziiiaz/DH110---Week-1/blob/main/Week1.md#first-department-of-homeland-security).
 
+
+>**Two Websites:**
+
+<img src="https://user-images.githubusercontent.com/46515738/143982009-541f7f5b-a733-4606-8303-6c9498a26a89.png" width="500" height="600" />
+<img src="https://user-images.githubusercontent.com/46515738/143982172-90d18364-7f74-4fc0-8fcf-2e007050938c.png" width="500" height="600" />
+
+
+
 >**Two examples from the heurisic evaluations**
 
 <img src="https://user-images.githubusercontent.com/46515738/143791017-8989220f-8f90-44b9-bff8-eba3faabdaac.png" width="500" />
@@ -36,7 +44,7 @@ In this stage, the goal was to concentrate on the users’ interactions with a f
 Storytelling emplaces the subject matter in a context and takes the audience on a journey through the researcher’s eyes and the subject’s action. Storytelling promotes subjects from mere users to persons with a life that affects their decision-making, rise and fall of feelings, and how they interact with an issue. Storytelling re-contextualizes the user and the product in their real-time entanglement. Based on the project’s core intention, two personas were created to test the website from the position of users and through their perspectives. One personifies a user with a specific disability, and the other typifies a person with less technical knowledge. For more information, please click [**here**]( https://github.com/ziiiaz/Week-4/blob/main/README.md).
 
 
->Personas
+>**Personas**:
 
 <img src="https://user-images.githubusercontent.com/46515738/142480461-d64eb4ef-8599-4b54-b54d-5543989ae61f.png" width="700" />
 <img src="https://user-images.githubusercontent.com/46515738/142480700-c330a511-659a-4cb6-9774-6935755a1f79.jpg" width="700" />
@@ -71,7 +79,7 @@ The low-fidelity prototype helped the project to understand what should be done 
 ### OPTIONAL EVALUATION AND REVISION HISTORY
 During the impression test of the third high-fidelity design, the user wanted to go back to the home page. The design considered the logo (top of the page) as a default way of doing this task. However, the user found out that the home button at the foot bar is better for going back to the home page. Since the design did not consider an action for that button, the user was confused about how to reach the home page. This issue was resolved in the final design. 
 
-**The final revised interactive prototype**:
+>**The final revised interactive prototype**:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhpYyAsJApPIIr7E9eqyihC%2FDH110---Hi-fid---N-Flow-Lines%3Fnode-id%3D2%253A2%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
@@ -81,54 +89,54 @@ During the impression test of the third high-fidelity design, the user wanted to
 **Several typographic, alignment, contrast, shape changes were applied to the final revision. These changes helped the design to have a professional look and aesthetically appealing to the user. Some of these changes can be seen here**: 
 
 
-**1.Choosing between search bars:**
+>**1.Choosing between search bars:**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="500" />
 
 
-**2.Aliging the text with the shape (1):**
+>**2.Aliging the text with the shape (1):**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="500" />
 
 
-**3.Aligning the text with the shape (2):**
+>**3.Aligning the text with the shape (2):**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="500" />
 
 
-**4.Aligning the search bar with the shapes and the page margin:**
+>**4.Aligning the search bar with the shapes and the page margin:**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="500" />
 
 <img src="https://user-images.githubusercontent.com/46515738/142483952-de8d8225-263c-443c-b75f-6970b3fba885.jpg" width="500" />
 
 
-**5.Aligning the logo with the other elementsin the page:**
+>**5.Aligning the logo with the other elementsin the page:**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="500" />
 
 
-**6.Aligning the dropdown tab with the page:**
+>**6.Aligning the dropdown tab with the page:**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="500" />
 
 
-**7.Aligning the text with other elements and the page:**
+>**7.Aligning the text with other elements and the page:**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="500" />
 
 
-**8.Changing the duration of animnation to give simulate the loading feeling to the user:**
+>**8.Changing the duration of animnation to give simulate the loading feeling to the user:**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="500" />
 
 
-**9.Aligning the text with other elements and the page:**
+>**9.Aligning the text with other elements and the page:**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="500" />
 
 
-**10.Changing the text lines' height ot increase the readability:**
+>**10.Changing the text lines' height ot increase the readability:**
 
 <img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="500" />
 
