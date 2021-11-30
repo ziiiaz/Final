@@ -50,10 +50,10 @@ Storytelling emplaces the subject matter in a context and takes the audience on 
 >**Personas**:
 
 >:one:
-><img src="https://user-images.githubusercontent.com/46515738/142480461-d64eb4ef-8599-4b54-b54d-5543989ae61f.png" width="600" />
+<img src="https://user-images.githubusercontent.com/46515738/142480461-d64eb4ef-8599-4b54-b54d-5543989ae61f.png" width="600" />
 
 >:two:
-><img src="https://user-images.githubusercontent.com/46515738/142480700-c330a511-659a-4cb6-9774-6935755a1f79.jpg" width="600" />
+<img src="https://user-images.githubusercontent.com/46515738/142480700-c330a511-659a-4cb6-9774-6935755a1f79.jpg" width="600" />
 
 
 
