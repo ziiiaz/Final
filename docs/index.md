@@ -23,18 +23,18 @@ In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland 
 >**Two Websites:**
 
 >:one:
-<img src="https://user-images.githubusercontent.com/46515738/143982009-541f7f5b-a733-4606-8303-6c9498a26a89.png" width="500" height="600" />
+<img src="https://user-images.githubusercontent.com/46515738/143982009-541f7f5b-a733-4606-8303-6c9498a26a89.png" width="300" height="400" />
 
 >:two:
-<img src="https://user-images.githubusercontent.com/46515738/143982172-90d18364-7f74-4fc0-8fcf-2e007050938c.png" width="500" height="600" />
+<img src="https://user-images.githubusercontent.com/46515738/143982172-90d18364-7f74-4fc0-8fcf-2e007050938c.png" width="300" height="400" />
 
 
 
 >**Two examples from the heurisic evaluations**
 
-<img src="https://user-images.githubusercontent.com/46515738/143791017-8989220f-8f90-44b9-bff8-eba3faabdaac.png" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/143791017-8989220f-8f90-44b9-bff8-eba3faabdaac.png" width="400" />
 
-<img src="https://user-images.githubusercontent.com/46515738/143791094-3164f722-837d-452d-97fb-af3686efae4e.png" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/143791094-3164f722-837d-452d-97fb-af3686efae4e.png" width="400" />
 
 
 
@@ -50,15 +50,15 @@ Storytelling emplaces the subject matter in a context and takes the audience on 
 >**Personas**:
 
 >:one:
-><img src="https://user-images.githubusercontent.com/46515738/142480461-d64eb4ef-8599-4b54-b54d-5543989ae61f.png" width="700" />
+><img src="https://user-images.githubusercontent.com/46515738/142480461-d64eb4ef-8599-4b54-b54d-5543989ae61f.png" width="600" />
 
 >:two:
-><img src="https://user-images.githubusercontent.com/46515738/142480700-c330a511-659a-4cb6-9774-6935755a1f79.jpg" width="700" />
+><img src="https://user-images.githubusercontent.com/46515738/142480700-c330a511-659a-4cb6-9774-6935755a1f79.jpg" width="600" />
 
 
 
 ### WIREFRAMING AND GRAPHIC DESIGN ELEMENT VARIATION
-<img src="https://user-images.githubusercontent.com/46515738/143793805-8260608d-3b93-485a-8678-9b8e5313431c.png" width="500" length="300" />
+<img src="https://user-images.githubusercontent.com/46515738/143983179-6ef80691-e27a-4b81-a373-d8cfdc0a07f6.jpg" width="400" length="200" />
 
 
 
@@ -72,9 +72,9 @@ Based on the previous stages, two personas, and the analysis from the second int
 ### HIGH-FIDELITY PROTOTYPE
 The low-fidelity prototype helped the project to understand what should be done in the next stage: the transformation of the wireframes to high-fidelity ones. In this stage, the high-fidelity frames were created with Figma. I also used Adobe Photoshop to modify buttons (for example, the search button). Twenty-one frames were designed to fulfill specific tasks and specifically to complete complaints status tracking. After several minor and major revisions, the final design was successfully passed the user tests. It should be mentioned that two modes, dark and light, were considered for this design. However, all the final modifications were applied to the light mode. For more information, please click [**here**](https://github.com/ziiiaz/Interface/blob/main/README.md).
 
-<img src="https://user-images.githubusercontent.com/46515738/143798012-0e3c6a65-01c1-4606-903f-7315f80a8acd.png" width="500" />
-<img src="https://user-images.githubusercontent.com/46515738/143798344-c33badd0-1b28-49f2-99ea-fa0c0fa7b10b.png" width="500" />
-<img src="https://user-images.githubusercontent.com/46515738/143798465-131dc070-a049-4391-a7d5-fd5de0dafc78.png" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/143798012-0e3c6a65-01c1-4606-903f-7315f80a8acd.png" width="400" />
+<img src="https://user-images.githubusercontent.com/46515738/143798344-c33badd0-1b28-49f2-99ea-fa0c0fa7b10b.png" width="400" />
+<img src="https://user-images.githubusercontent.com/46515738/143798465-131dc070-a049-4391-a7d5-fd5de0dafc78.png" width="400" />
 
 
 
@@ -97,54 +97,54 @@ During the impression test of the third high-fidelity design, the user wanted to
 
 >**:one:Choosing between search bars:**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="400" />
 
 
 >**:two:Aliging the text with the shape (1):**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="400" />
 
 
 >**:three:Aligning the text with the shape (2):**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="400" />
 
 
 >**:four:Aligning the search bar with the shapes and the page margin:**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="400" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483952-de8d8225-263c-443c-b75f-6970b3fba885.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483952-de8d8225-263c-443c-b75f-6970b3fba885.jpg" width="400" />
 
 
 >**:five:Aligning the logo with the other elementsin the page:**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="400" />
 
 
 >**:six:Aligning the dropdown tab with the page:**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="400" />
 
 
 >**:seven:Aligning the text with other elements and the page:**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="400" />
 
 
 >**:eight:Changing the duration of animnation to give simulate the loading feeling to the user:**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="400" />
 
 
 >**:nine:Aligning the text with other elements and the page:**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="400" />
 
 
 >**:keycap_ten:Changing the text lines' height ot increase the readability:**
 
-<img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="400" />
 
 
 
