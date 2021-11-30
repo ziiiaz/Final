@@ -6,6 +6,9 @@
 ### INTRODUCTION
 The core intention of this project is to bring users' experience with the Department of Homeland Security website in finding the relevant formation about the travel [complaint]( https://www.dhs.gov/file-travel-complaint-dhs-trip) and specifically be able to easily track their complaint [status](https://trip.dhs.gov/TRIP/Home/CaseStatus). While the original website tried to keep the structure minimalistic and straightforward, it was not straightforward for some users with less technical knowledge to access the desired information. By deploying the users' experience with the website, this project provides alternative designs to facilitate users' efficient engagement with various elements of complaining and tracking pages. Thus, in this project, the design focuses on the issues addressed during the different stages of the project through (re-)modifying elements like changing shapes, fonts, alignments, and even re-designing a whole page. These stages will be discussed in the following sections. 
 
+<img src="https://user-images.githubusercontent.com/46515738/143969954-c2f6da63-efc8-40f0-88ea-9a830e8e7997.png" width="400" height="700" />
+
+
 
 
 ### CLEAR DESIGN STATEMENT: 
@@ -73,6 +76,8 @@ During the impression test of the third high-fidelity design, the user wanted to
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhpYyAsJApPIIr7E9eqyihC%2FDH110---Hi-fid---N-Flow-Lines%3Fnode-id%3D2%253A2%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
 
+
+
 **Several typographic, alignment, contrast, shape changes were applied to the final revision. These changes helped the design to have a professional look and aesthetically appealing to the user. Some of these changes can be seen here**: 
 
 
@@ -92,32 +97,39 @@ During the impression test of the third high-fidelity design, the user wanted to
 
 
 **4.Aligning the search bar with the shapes and the page margin:**
+
 <img src="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="500" />
 
 <img src="https://user-images.githubusercontent.com/46515738/142483952-de8d8225-263c-443c-b75f-6970b3fba885.jpg" width="500" />
 
 
 **5.Aligning the logo with the other elementsin the page:**
+
 <img src="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="500" />
 
 
 **6.Aligning the dropdown tab with the page:**
+
 <img src="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="500" />
 
 
 **7.Aligning the text with other elements and the page:**
+
 <img src="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="500" />
 
 
 **8.Changing the duration of animnation to give simulate the loading feeling to the user:**
+
 <img src="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="500" />
 
 
 **9.Aligning the text with other elements and the page:**
+
 <img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="500" />
 
 
 **10.Changing the text lines' height ot increase the readability:**
+
 <img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="500" />
 
 
