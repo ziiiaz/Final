@@ -41,7 +41,7 @@ Storytelling emplaces the subject matter in a context and takes the audience on 
 
 
 ### WIREFRAMING AND GRAPHIC DESIGN ELEMENT VARIATION
-<img src="https://user-images.githubusercontent.com/46515738/143793805-8260608d-3b93-485a-8678-9b8e5313431c.png" width="500" length="500" />
+<img src="https://user-images.githubusercontent.com/46515738/143793805-8260608d-3b93-485a-8678-9b8e5313431c.png" width="500" length="300" />
 
 
 
