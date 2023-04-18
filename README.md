@@ -71,9 +71,7 @@
 
 >During the impression test of the third high-fidelity design, the user wanted to go back to the home page. The design considered the logo (top of the page) as a default way of doing this task. However, the user found out that the home button at the foot bar is better for going back to the home page. Since the design did not consider an action for that button, the user was confused about how to reach the home page. This issue was resolved in the final design. 
 
-> the final revised interactive prototype:
-> 
-> To see the complete project on Figma, please click [**here**](https://www.figma.com/proto/hpYyAsJApPIIr7E9eqyihC/DH110---Hi-fid---N-Flow-Lines?embed_host=share&kind=&node-id=2-2&starting-point-node-id=2%3A2)
+> the final revised interactive prototype, please click [**here**](https://www.figma.com/proto/hpYyAsJApPIIr7E9eqyihC/DH110---Hi-fid---N-Flow-Lines?embed_host=share&kind=&node-id=2-2&starting-point-node-id=2%3A2)
 
 > Several typographic, alignment, contrast, shape changes were applied to the final revision. These changes helped the design to have a professional look and aesthetically appealing to the user. Some of these changes can be seen here: 
 >
