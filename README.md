@@ -50,7 +50,7 @@
 
 >Based on the previous stages, two personas, and the analysis from the second interview, the low-fidelity prototype intends to remove the obstacle of checking the status based on the participant’s struggle with finding the status page. Thirty frames were designed to represent a specific number of tasks. Compared with the original website, several minor modifications were made in the prototype; among all, the complaint status check page was significantly changed. For more information, please click [**here**](https://github.com/ziiiaz/Low-Fid/blob/main/README.md).
 
-<iframe width="100%" height="475" src="https://www.figma.com/file/VWYmqkQK1Newmb7TqJP4n1/Wireframes?node-id=181%3A0&t=jtGNTXayw3mdwCBh-1" frameborder="0"></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVWYmqkQK1Newmb7TqJP4n1%2FWireframes%3Fnode-id%3D181%253A0%26t%3DjtGNTXayw3mdwCBh-1" allowfullscreen></iframe>
 
 
 ### HIGH-FIDELITY PROTOTYPE
