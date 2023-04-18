@@ -53,7 +53,7 @@
 > <img src="https://user-images.githubusercontent.com/46515738/232686069-bfc538d3-8d37-4b6c-8d1a-eaf3cde85db1.png" width="500" length="800" />
 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVWYmqkQK1Newmb7TqJP4n1%2FWireframes%3Fnode-id%3D181%253A0%26t%3DjtGNTXayw3mdwCBh-1" allowfullscreen></iframe>
+>To see the complete project on Figma, please click [**here**](https://www.figma.com/file/VWYmqkQK1Newmb7TqJP4n1/Wireframes?node-id=181%3A0&t=jtGNTXayw3mdwCBh-1)
 
 
 ### HIGH-FIDELITY PROTOTYPE
@@ -64,9 +64,8 @@
 > <img src="https://user-images.githubusercontent.com/46515738/143798344-c33badd0-1b28-49f2-99ea-fa0c0fa7b10b.png" width="500" />
 > <img src="https://user-images.githubusercontent.com/46515738/143798465-131dc070-a049-4391-a7d5-fd5de0dafc78.png" width="500" />
 
+>To see the complete project on Figma, please click [**here**](https://www.figma.com/file/hpYyAsJApPIIr7E9eqyihC/DH110---Hi-fid---N-Flow-Lines?node-id=0%3A1&t=PQYGwtZF5qmgnMSD-1)
 
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhpYyAsJApPIIr7E9eqyihC%2FDH110---Hi-fid---N-Flow-Lines%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ### OPTIONAL EVALUATION AND REVISION HISTORY
 
@@ -74,8 +73,7 @@
 
 > the final revised interactive prototype:
 > 
-> <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhpYyAsJApPIIr7E9eqyihC%2FDH110---Hi-fid---N-Flow-Lines%3Fnode-id%3D2%253A2%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
-
+> To see the complete project on Figma, please click [**here**](https://www.figma.com/proto/hpYyAsJApPIIr7E9eqyihC/DH110---Hi-fid---N-Flow-Lines?embed_host=share&kind=&node-id=2-2&starting-point-node-id=2%3A2)
 
 > Several typographic, alignment, contrast, shape changes were applied to the final revision. These changes helped the design to have a professional look and aesthetically appealing to the user. Some of these changes can be seen here: 
 >
