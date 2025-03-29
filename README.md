@@ -1,6 +1,25 @@
 # DH110 
-# Filing A Complaint and Tracking it: Department of Homeland Security Website
+# Redesigning DHS Travel Complaint Tracking
+## _Simplifying complaint filing and status tracking for vulnerable users_
+
+## **Role**: UX Researcher & Designer (Solo Project) | **Duration**: 7 Weeks | **Tools**: Figma, Adobe Photoshop
 ## Zia Khoshsirat
+
+
+## Project Overview
+**Problem**:
+The DHS website’s complaint tracking system was technically and emotionally daunting for users, especially those with disabilities or limited tech literacy. Key issues:
+
+* Low trust in DHS’s responsiveness to complaints (perceived futility).
+* Confusing navigation and poor visibility of complaint status.
+* Accessibility barriers (contrast, alignment, cognitive load).
+
+## **Solution**:
+* A redesigned interface prioritizing:
+* Transparent tracking: Clear status updates to rebuild trust.
+* Accessible workflows: Simplified navigation and inclusive design.
+
+Affective design: Addressing users’ emotional hesitancy.
 
 ### INTRODUCTION
 
